@@ -1,227 +1,841 @@
-<h1 align="center">Hi, I'm Sainul Abid K 👋</h1>
+<!-- ========================================================= -->
+<!--                    SAINUL ABID K                           -->
+<!--                 GitHub Profile README                      -->
+<!-- ========================================================= -->
 
-<h3 align="center">
-Full-Stack Engineer · Enterprise SaaS · AI-Powered Applications
-</h3>
+<div align="center">
 
-<p align="center">
-React · Next.js · React Native · TypeScript · Java/Spring Boot · Node.js · Python
-</p>
+# 👋 Hi, I'm Sainul Abid K
 
-<p align="center">
-PostgreSQL · MongoDB · Qdrant · AWS · GCP · Docker
-</p>
+### Full-Stack Engineer · Enterprise SaaS · AI Engineering
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;React+%7C+Next.js+%7C+TypeScript;Java+%7C+Spring+Boot+%7C+Node.js;Building+Enterprise+SaaS+Platforms;RAG+%7C+LLMs+%7C+Vector+Search;React+Native+%7C+Web+%7C+Cloud" alt="Typing SVG" />
+
+<br/>
+
+**Building scalable products from UI → API → Database → AI → Cloud**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=zainulabidk&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Engineer with 3+ years of experience building
-production applications across HRTech, FinTech, LegalTech,
-Marine Logistics, AI, and enterprise SaaS.
+```typescript
+const sainul = {
+  role: "Full-Stack Engineer",
+  experience: "3+ Years",
 
-I work across the complete product lifecycle — frontend architecture,
-backend services, databases, authentication and RBAC, multi-tenant
-systems, AI integrations, and cloud deployment.
+  frontend: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "React Native"
+  ],
 
-Currently working on enterprise HRMS, FinTech, and AI products.
+  backend: [
+    "Java",
+    "Spring Boot",
+    "Node.js",
+    "Express",
+    "Python"
+  ],
 
-- ⚡ Building scalable React / Next.js applications
-- ☕ Developing backend services with Java, Spring Boot & Node.js
-- 🤖 Building AI features using OpenAI, Gemini, RAG & vector search
-- 📱 Building cross-platform apps with React Native
-- 🏗️ Experienced with multi-tenant SaaS and RBAC architectures
-- ☁️ Deploying applications with Docker, AWS, GCP & DigitalOcean
+  databases: [
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "Qdrant"
+  ],
+
+  ai: [
+    "OpenAI",
+    "Gemini",
+    "RAG",
+    "Vector Search",
+    "TensorFlow"
+  ],
+
+  architecture: [
+    "Multi-Tenant SaaS",
+    "RBAC",
+    "Microservices",
+    "Workflow Systems"
+  ],
+
+  cloud: [
+    "AWS",
+    "GCP",
+    "Docker",
+    "DigitalOcean"
+  ],
+
+  currentFocus:
+    "Enterprise SaaS + AI-powered business systems"
+};
+```
+
+I’m a **Full-Stack Engineer** with 3+ years of experience building and shipping production applications across **HRTech, FinTech, LegalTech, Marine Logistics, AI, and Enterprise SaaS**.
+
+I work across the full engineering lifecycle — **frontend architecture, backend services, databases, API design, multi-tenant systems, RBAC, AI integrations, mobile applications, DevOps, and cloud deployment**.
+
+My recent engineering work includes **enterprise HRMS architecture, Java/Spring Boot microservices, React/Next.js platforms, React Native applications, RAG-powered learning systems, AI analytics, workflow engines, and financial platforms**.
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ What I Build
 
-### Frontend
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`React.js` `Next.js` `TypeScript` `JavaScript`
-`React Native` `Redux Toolkit` `Zustand`
-`TanStack Query` `Tailwind CSS` `Material UI`
+### 🏢 Enterprise SaaS
 
-### Backend
+- Multi-Tenant Architecture
+- Organization-level isolation
+- RBAC & permissions
+- Workflow engines
+- Approval matrices
+- Microservices
+- Enterprise dashboards
 
-`Java` `Spring Boot` `Node.js` `Express.js`
-`Python` `Django` `REST APIs` `GraphQL`
-`Microservices` `JWT` `RBAC`
+</td>
+<td width="50%" valign="top">
 
-### Database & Data
+### 🤖 AI Engineering
 
-`PostgreSQL` `MongoDB` `Redis`
-`Qdrant` `Supabase` `SQL Server`
+- LLM integrations
+- Retrieval-Augmented Generation
+- Vector Search
+- AI assistants
+- Document intelligence
+- AI recommendations
+- Business analytics
 
-### AI / ML
+</td>
+</tr>
 
-`OpenAI API` `Gemini`
-`RAG` `Vector Search`
-`TensorFlow` `Hugging Face`
-`LLM Integration`
+<tr>
+<td width="50%" valign="top">
 
-### Cloud & DevOps
+### ⚙️ Full-Stack Engineering
 
-`AWS` `GCP` `Docker`
-`DigitalOcean` `Firebase`
-`Vercel` `GitHub Actions` `CI/CD`
+- React / Next.js
+- React Native
+- TypeScript
+- Java / Spring Boot
+- Node.js / Express
+- Python
+- REST / GraphQL
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+
+- Docker
+- AWS
+- GCP
+- DigitalOcean
+- Firebase
+- CI/CD
+- GitHub Actions
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Selected Engineering Work
+# 🛠️ Engineering Stack
 
-## 🏢 OfficeKit HR
+### 🎨 Frontend & Mobile
 
-Enterprise multi-tenant HR platform built for complex
-organization structures and HR workflows.
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,sass,html,css" />
+</p>
 
-### Engineering Highlights
+`React Native` · `TanStack Query` · `Zustand` · `Bootstrap`
 
-- Scalable React + TypeScript frontend architecture
-- Improved application performance by ~40%
-- Technical lead for a Java/Spring Boot Shift Service
-- Multi-tenant shift and desk assignment workflows
-- Organization hierarchy and reporting trees
-- Multi-level workflow and approval engine
-- AI-powered attendance and leave insights
-- RAG-powered LMS using Qdrant
-- Rewards & Recognition system
-- React Native employee application
-- Firebase push notifications
-- Biometric authentication integration
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,django" />
+</p>
+
+`REST APIs` · `GraphQL` · `JWT` · `RBAC` · `Microservices`
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,sqlite" />
+</p>
+
+`Qdrant` · `SQL Server` · `Vector Search`
+
+### 🧠 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+`OpenAI API` · `Gemini` · `RAG` · `Qdrant` · `Hugging Face` · `LLM Integration` · `Prompt Engineering`
+
+### ☁️ Cloud / DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,firebase,vercel,githubactions,git,github,gitlab,nginx" />
+</p>
+
+`DigitalOcean` · `CI/CD` · `Bitbucket`
+
+---
+
+# 🚀 Enterprise Engineering
+
+## 🏢 OfficeKit — Enterprise HR Ecosystem
+
+> Multi-tenant HR technology ecosystem covering core HR operations, learning, employee engagement, workflow automation, AI insights, mobile employee services, and financial-support workflows.
+
+```text
+                         OfficeKit
+                             │
+        ┌────────────────────┼────────────────────┐
+        │                    │                    │
+       HRMS                 LMS             AI & Insights
+        │                    │                    │
+   ┌────┼────┐          ┌────┼────┐          ┌────┼────┐
+   │    │    │          │    │    │          │    │    │
+ Shift Org Workflow   RAG  Quiz Analytics Attendance Leave
+        │
+        ├──────────────┬───────────────┐
+        │              │               │
+     Rewards       Loan/Advance      Mobile
+```
+
+### 🧑‍💼 OfficeKit HRMS
+
+Enterprise multi-tenant Human Resource Management platform built for complex organizational structures and HR operations.
+
+**Engineering contributions**
+
+- Architected scalable **React + TypeScript** frontend architecture
+- Improved frontend performance by approximately **40%**
+- Built reusable enterprise UI and data-query patterns
+- Developed complex organization-level workflows
+- Built employee and management experiences
+- Implemented multi-tenant business logic
+- Worked across frontend, backend, AI, mobile, and deployment layers
+
+---
+
+### ⚙️ Shift Service
+
+Technical lead for the **Java / Spring Boot Shift Service**.
+
+```text
+Organization
+     │
+     ▼
+Shift Policies
+     │
+     ├── Shift Creation
+     ├── Shift Assignment
+     ├── Desk Assignment
+     └── Configurable Policies
+              │
+              ▼
+        Spring Boot Service
+          │           │
+          ▼           ▼
+       Qdrant     SQL Server
+```
+
+Built functionality covering:
+
+- Shift creation
+- Employee shift assignment
+- Desk assignment
+- Organization-level configurable policies
+- Multi-tenant service architecture
+- Qdrant-backed data operations
+- Read-only SQL Server integration
+
+Worked with the service across **5 production tenants**.
+
+Also contributed to the modernization of selected HRMS modules from **.NET → Java / Spring Boot**.
+
+---
+
+### 🏢 Organization Chart
+
+Built dynamic enterprise organization structures supporting:
+
+- Reporting hierarchy
+- Manager trees
+- Department structures
+- Multi-tenant organizations
+- Employee relationships
+- Dynamic hierarchy visualization
+
+```text
+CEO
+ │
+ ├── Engineering
+ │      ├── Manager
+ │      │     ├── Engineer
+ │      │     └── Engineer
+ │
+ ├── HR
+ │      └── HR Team
+ │
+ └── Finance
+        └── Finance Team
+```
+
+---
+
+### 🔄 Workflow Management
+
+Built configurable enterprise approval workflows.
+
+**Capabilities**
+
+- Multi-level approval chains
+- Role-based routing
+- Approval matrix builder
+- Dynamic approver configuration
+- Organization-specific workflows
+- Status tracking
+- Business-process automation
+
+```text
+Employee Request
+       │
+       ▼
+   Manager
+       │
+       ▼
+Department Head
+       │
+       ▼
+      HR
+       │
+       ▼
+   Approved
+```
+
+---
+
+### 🧠 AI Attendance & Leave Insights
+
+Built AI-powered analytics for workforce attendance and leave data.
+
+```text
+Attendance / Leave Data
+          │
+          ▼
+     Data Analysis
+          │
+          ▼
+       AI Layer
+          │
+     ┌────┼─────┐
+     ▼    ▼     ▼
+  Trends Patterns Recommendations
+```
+
+Delivered:
+
+- Self insights
+- Team insights
+- Organization-level dashboards
+- Attendance trends
+- Leave patterns
+- AI recommendations
+- Workforce analytics
+
+---
+
+## 🎓 OfficeKit LMS
+
+### AI + RAG Powered Learning Platform
+
+Built an intelligent Learning Management System integrated into the OfficeKit ecosystem.
+
+```text
+Learning Content
+       │
+       ▼
+   Processing
+       │
+       ▼
+    Embeddings
+       │
+       ▼
+     Qdrant
+       │
+       ▼
+  RAG Retrieval
+       │
+       ▼
+       LLM
+       │
+ ┌─────┼──────────┐
+ ▼     ▼          ▼
+Quiz  Answers   Learning
+Generation      Assistance
+```
+
+### Features
+
+- Learning content management
+- RAG-based knowledge retrieval
+- Qdrant vector search
+- AI-generated quizzes
+- Assessments
+- Course completion tracking
+- Learning analytics
+- AI-assisted learning experiences
+
+**Engineering**
+
+`React` · `TypeScript` · `RAG` · `Qdrant` · `OpenAI / Gemini`
+
+---
+
+## 🏆 OfficeKit Rewards & Recognition
+
+Employee engagement platform connected to learning and performance data.
+
+### Features
+
+```text
+Employee Activity
+       │
+       ├── LMS Progress
+       ├── Performance
+       ├── Achievements
+       └── Engagement
+              │
+              ▼
+       Rewards Engine
+              │
+      ┌───────┼───────┐
+      ▼       ▼       ▼
+    Badges  Streaks Leaderboards
+```
+
+Built:
+
+- 🏅 Achievement badges
+- 🔥 Employee streaks
+- 🏆 Leaderboards
+- 🎓 LMS-based rewards
+- 📈 Performance-driven recognition
+- 👥 Employee engagement features
+
+---
+
+## 💰 Loan & Advance
+
+Built employee financial-support request modules with company-configurable policies.
+
+### Capabilities
+
+- Loan requests
+- Advance requests
+- Company-specific policy configuration
+- Approval workflows
+- Request tracking
+- Employee eligibility/business rules
+
+```text
+Employee
+   │
+   ▼
+Request
+   │
+   ▼
+Policy Validation
+   │
+   ▼
+Approval Workflow
+   │
+   ▼
+Approved / Rejected
+```
+
+---
+
+## 📱 OfficeKit Mobile
+
+React Native employee companion application for **iOS & Android**.
+
+### Features
+
+- Employee self-service
+- Attendance
+- Leave workflows
+- Shift visibility
+- Push notifications
+- Biometric authentication
 
 **Stack**
 
-`React` `TypeScript` `TanStack Query`
-`Java` `Spring Boot` `React Native`
-`Qdrant` `Docker` `AWS` `GCP`
-
-> Production source code is private/proprietary.
+`React Native` · `Firebase` · `TensorFlow`
 
 ---
 
-## 🪙 Tijjori
+## 🤖 OfficeKit AI Assistant
 
-Digital gold investment platform with separate workflows for
-Admin, Agent, Partner, B2B, and end-user operations.
+Integrated AI capabilities directly into the HR ecosystem.
 
-### Engineering Highlights
+```text
+Employee
+   │
+   ▼
+AI Assistant
+   │
+   ├── OpenAI
+   ├── Gemini
+   ├── RAG
+   └── Enterprise Context
+```
 
-- Developed React web dashboard
-- Built role-specific business portals
-- Buy/sell and asset-management workflows
+Focused on turning HR and organizational data into useful employee-facing AI experiences.
+
+---
+
+## 📰 OfficeKit Outroom CMS
+
+Marketing and content-management platform.
+
+Built:
+
+- Blog creation/editing
+- Rich text editor
+- Media management
+- SEO metadata
+- Scheduled publishing
+- JWT-protected admin portal
+- SEO-friendly public pages
+- SSG / SSR rendering
+
+**Stack**
+
+`Next.js` · `React` · `Node.js` · `MongoDB` · `TipTap` · `AWS S3` · `Vercel`
+
+---
+
+> 🔒 OfficeKit production source code is proprietary. This section describes my engineering contributions and technologies without exposing private source code.
+
+---
+
+# 🪙 Tijjori — Gold Investment Platform
+
+Digital gold investment platform built with a **PERN architecture**.
+
+### Platforms
+
+```text
+                    Tijjori
+                       │
+       ┌───────────────┼───────────────┐
+       │               │               │
+     Admin           Agent          Partner
+       │               │               │
+       └───────────────┼───────────────┘
+                       │
+                      B2B
+                       │
+                       ▼
+                 Transaction API
+                       │
+                 ┌─────┴─────┐
+                 ▼           ▼
+            PostgreSQL    Payments
+```
+
+### Engineering
+
+- Full React dashboard
+- Admin portal
+- Agent portal
+- Partner portal
+- B2B portal
+- Buy / sell workflows
+- Asset management
 - Payment gateway integration
-- REST APIs using Node.js and Express
-- PostgreSQL transaction layer
-- JWT authentication and RBAC
-- Docker/AWS deployment
+- Transaction logic
+- RBAC
+- JWT authentication
+- RESTful API architecture
 
 **Stack**
 
-`React` `Node.js` `Express`
-`PostgreSQL` `TanStack Query`
-`JWT` `Docker` `AWS`
+`React` · `Node.js` · `Express` · `PostgreSQL` · `TanStack Query` · `JWT` · `Docker` · `AWS`
 
 ---
 
-## ⚖️ ADREdge
+# ⚖️ ADREdge — LegalTech SaaS
 
-LegalTech SaaS platform for Online Dispute Resolution.
+Online Dispute Resolution platform for managing complex legal workflows.
 
-Built workflows for arbitration, mediation and conciliation,
-including multiple role-specific portals.
+### Built
 
-### Highlights
-
-- End-to-end dispute lifecycle
-- Role-based authorization
+- Arbitration workflows
+- Mediation workflows
+- Conciliation workflows
+- Claimant portal
+- Respondent portal
+- Arbitrator portal
+- Admin portal
 - Virtual hearing workflows
 - Compliance audit trails
-- Time-stamped case activity
-- Production cloud deployment
+- Time-stamped case activities
+
+```text
+Case
+ │
+ ├── Claimant
+ ├── Respondent
+ ├── Arbitrator
+ └── Admin
+       │
+       ▼
+Dispute Workflow
+       │
+       ▼
+Virtual Hearing
+       │
+       ▼
+Audit Trail
+```
 
 **Stack**
 
-`React` `Node.js` `PostgreSQL`
-`REST API` `JWT` `Material UI`
-`DigitalOcean`
+`React` · `Node.js` · `PostgreSQL` · `REST API` · `JWT` · `Material UI` · `DigitalOcean`
 
 ---
 
-## 🚢 Inclips Marine
+# 🚢 Inclips Marine
 
-Marine cargo survey and logistics platform for field surveyors
-and enterprise teams.
+Marine cargo survey and logistics SaaS for surveyors and enterprise operations.
 
-### Highlights
+### Engineering Highlights
 
 - Full-stack web platform
 - Mobile-friendly field workflows
 - Multi-role dashboards
 - AI-assisted report generation
-- Real-time operational views
-- Secure cloud file storage
+- Operational data views
+- Cloud document storage
+- Role-based access
 
 **Stack**
 
-`React` `React Native`
-`Node.js` `MongoDB`
-`Firebase` `DigitalOcean`
+`React` · `React Native` · `Node.js` · `MongoDB` · `Firebase` · `DigitalOcean`
 
 ---
 
-## 🤖 AI CV Screening Platform
+# 🤖 AI CV Screening Platform
 
-AI-powered recruitment system that evaluates uploaded CVs
-against job requirements.
+AI-powered recruitment platform for automatically evaluating candidate CVs against job requirements.
+
+```text
+CV ──────────┐
+             │
+             ▼
+        AI Screening
+             ▲
+             │
+Job Description
+             │
+             ▼
+      Candidate Analysis
+             │
+     ┌───────┼────────┐
+     ▼       ▼        ▼
+ Match %  Skill Gap  Recommendation
+             │
+             ▼
+         Shortlist
+```
 
 ### Features
 
-- CV parsing
-- Job-description matching
-- Candidate match score
-- Skill-gap identification
-- AI-generated hiring recommendations
-- Candidate shortlisting dashboard
-- S3 document storage
+- CV upload & parsing
+- Job description analysis
+- Candidate matching
+- Match percentage
+- Skill-gap detection
+- AI hiring recommendation
+- Candidate shortlist management
+- AWS S3 document storage
 
 **Stack**
 
-`Next.js` `Node.js`
-`PostgreSQL` `OpenAI API`
-`AWS S3` `Tailwind CSS`
+`Next.js` · `Node.js` · `PostgreSQL` · `OpenAI API` · `AWS S3` · `Tailwind CSS`
 
 ---
 
-## 🧠 Areas I Work In
+# ⚡ FlowPilot
+
+AI workflow automation and project-management SaaS.
+
+### Features
+
+- AI workflow automation
+- Project management
+- Task management
+- Team collaboration
+- Admin analytics
+- Content management
+- SEO-friendly public website
+
+**Stack**
+
+`React` · `Python` · `Supabase`
+
+---
+
+# 🧩 How I Think About Systems
 
 ```text
-Enterprise SaaS
-├── Multi-Tenant Architecture
-├── RBAC & Authentication
-├── Workflow Engines
-├── Microservices
-└── Business Platforms
+                       USER
+                         │
+                         ▼
+                ┌────────────────┐
+                │ React / Next.js│
+                │  React Native  │
+                └───────┬────────┘
+                        │
+                        ▼
+                 API / Gateway
+                        │
+          ┌─────────────┼─────────────┐
+          ▼             ▼             ▼
+      Spring Boot    Node.js        Python
+          │             │             │
+          └─────────────┼─────────────┘
+                        │
+                        ▼
+              Business / Domain Layer
+                        │
+           ┌────────────┼────────────┐
+           ▼            ▼            ▼
+      PostgreSQL     MongoDB       Redis
+                                     
+                        +
+                        │
+                        ▼
+                   AI Layer
+                        │
+          ┌─────────────┼─────────────┐
+          ▼             ▼             ▼
+       OpenAI        Gemini         RAG
+                                       │
+                                       ▼
+                                    Qdrant
 
-AI Engineering
-├── LLM Integration
-├── RAG
-├── Vector Search
-├── AI Assistants
-└── AI-Powered Business Features
+                        │
+                        ▼
+                 Docker / Cloud
+                        │
+             ┌──────────┼──────────┐
+             ▼          ▼          ▼
+            AWS        GCP    DigitalOcean
+```
 
-Full-Stack
-├── React / Next.js
-├── React Native
-├── Java / Spring Boot
-├── Node.js
-├── Python
-└── PostgreSQL / MongoDB
+---
 
-Cloud
-├── Docker
-├── AWS
-├── GCP
-├── DigitalOcean
-└── CI/CD
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zainulabidk&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainulabidk&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=zainulabidk&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainulabidk&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+# 🐍 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/zainulabidk/zainulabidk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+> The snake requires a GitHub Action to generate the SVG. Remove this section until the workflow is configured if you don't want a broken image.
+
+---
+
+# 🎯 Engineering Focus
+
+<div align="center">
+
+**Enterprise SaaS** • **AI Engineering** • **Full-Stack Architecture**
+
+**Microservices** • **Multi-Tenant Systems** • **RAG**
+
+**React / Next.js** • **Spring Boot** • **Node.js**
+
+**Cloud Architecture** • **Mobile Development**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Open to Full-Stack / Software Engineering opportunities
+
+I enjoy working on complex products where **frontend, backend, architecture, AI, and cloud engineering** come together.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/sainul-abid-k/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:wwwzainzaan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### ⚡ Build systems. Solve problems. Ship products.
+
+</div>
